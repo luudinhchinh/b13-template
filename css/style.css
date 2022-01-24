@@ -50,3 +50,11 @@ body {
 .card .card-feature {
     background: #EBF4FF ;
 }
+/*thống kê*/
+.row-tk h1{
+    font-size: 40px;
+}
+.row .thongke .col-3 {
+    color: rgb(17, 106, 238);
+    font-size: 20px;
+}
