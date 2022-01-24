@@ -30,3 +30,23 @@ body {
     color: rgb(15, 128, 173);
     font-size: 30px;
 }
+/*card*/
+.card {
+    border-radius: 8px;
+}
+.card .row .col-6 {
+    text-align: center;
+}
+.card .card-img-top {
+    border-radius: 8px;
+}
+.card-body .card-title {
+    border-radius: 10px;
+    background: darkgrey;
+}
+.card-body .xanh {
+    color: rgb(17, 106, 238);
+}
+.card .card-feature {
+    background: #EBF4FF ;
+}
